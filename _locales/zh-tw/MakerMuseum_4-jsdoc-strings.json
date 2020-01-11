@@ -1,0 +1,33 @@
+{
+
+    "CrocoKit.Play_Music": "播放音樂，輸入不同數位播放不同音樂",
+    "CrocoKit.Music_Handle": "選擇要播放的音樂",
+    "CrocoKit.Touch": "返回按下的音符鍵的值",
+    "CrocoKit.TouchButton": "音符鍵的值",
+    "CrocoKit.PlayPiano": "設定音調：1為低，2為中，3為高",
+    "CrocoKit.KeyBoard_Touch": "判斷某個觸摸引脚是否被按下",
+    "CrocoKit.KeyBoard_SetBaudRate": "設定串口通訊串列傳輸速率，默認為115200",
+    "CrocoKit.KeyBoard": "發送類比按鍵",
+    "CrocoKit.KeyBoard_Number": "發送數位",
+    "CrocoKit.KeyBoard_Keys": "發送字元",
+
+    "CrocoKit_input.Potentiometer": "讀取電位器模塊的模擬值",
+    "CrocoKit_input.Rocker": "讀取搖桿模塊X軸和Y軸的模擬值",
+    "CrocoKit_input.Button": "檢測按鍵模塊是否按下",
+    "CrocoKit_input.IR": "紅外避障傳感器是否檢測到障礙物",
+    "CrocoKit_input.Sound": "返回聲音傳感器檢測到的模擬值",
+    "CrocoKit_input.Light": "返回當前光照強度",
+    "CrocoKit_input.Vibration": "震動或搖動時觸發中斷",
+    "CrocoKit_input.Hall": "檢測到磁鐵靠近時觸發中斷",
+    "CrocoKit_input.Ultrasonic": "超聲波檢測前方障礙物距離，檢測距離小於5米",
+
+    "CrocoKit_output.LED1": "控制對應引脚LED燈亮或滅",
+    "CrocoKit_output.LED2": "控制對應引脚LED燈亮度值（0~255）",
+    "CrocoKit_output.BreathLED": "展示呼吸燈效果",
+    "CrocoKit_output.RGB": "選擇對應的引脚，設定RGB燈顏色值",
+    "CrocoKit_output.RGB2": "選擇RGB燈顯示的顏色",
+    "CrocoKit_output.Servo": "設定舵機角度0~180°",
+    "CrocoKit_output.MotorRun": "設定電機速度0~1023",
+    "CrocoKit_output.MotorStop": "停止電機"
+
+}
