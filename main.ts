@@ -900,7 +900,8 @@ namespace CrocoKit_input {
      */
     //% blockId=CrocoKit_Sensor_GetRGBValue block="GetRGBValue|value %value"
     //% blockGap=20
-    //% weight=98
+    //% weight=100
+    //% group="Sensor Modules"
     //% color="#836FFF"
     export function GetRGBValue(value: enGetRGB): number {
         if (!initialized) {
