@@ -1,7 +1,7 @@
 {
     "name": "MakerMuseum_4",
-    "version": "1.0.0",
-    "description": "Extension for YahBoom MakerMuseum_4 V1.0.0",
+    "version": "1.0.1",
+    "description": "Extension for YahBoom MakerMuseum_4 V1.0.1",
     "dependencies": {
         "core": "*",
         "LEDBit": "github:lzty634158/LED-Bit"

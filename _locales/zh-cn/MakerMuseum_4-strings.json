@@ -53,6 +53,7 @@
     "CrocoKit_output.enLED1.OFF|block": "灭",
     "CrocoKit_output.enLED1.ON|block": "亮",
 
+    "CrocoKit_input.GetRGBValue|block": "顏色识别传感器|颜色值 %value",
     "CrocoKit_input.IR|block": "红外传感器|引脚 %pin|返回 %value",
     "CrocoKit_input.Sound|block": "声音传感器|引脚 %pin ",
     "CrocoKit_input.Light|block": "光敏传感器|引脚 %pin ",
