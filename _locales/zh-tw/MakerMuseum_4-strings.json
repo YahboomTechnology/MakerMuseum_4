@@ -21,8 +21,8 @@
     "CrocoKit_input.enButton.Realse|block": "鬆開",
 
     "{id:category}CrocoKit": "CrocoKit",
-    "{id:category}CrocoKit_input": "Input Moudle",
-    "{id:category}CrocoKit_output": "Output Moudle",
+    "{id:category}CrocoKit_input": "輸入型模塊",
+    "{id:category}CrocoKit_output": "輸出型模塊",
     "{id:group}Sensor Modules": "傳感器模塊",
     "{id:group}Control Modules": "控制類模塊",
     "{id:group}Display Modules": "顯示類模塊",

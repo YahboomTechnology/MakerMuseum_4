@@ -74,8 +74,8 @@
     "CrocoKit_input.enButton.Realse|block": "松开",
 
     "{id:category}CrocoKit": "CrocoKit",
-    "{id:category}CrocoKit_input": "Input Moudle",
-    "{id:category}CrocoKit_output": "Output Moudle",
+    "{id:category}CrocoKit_input": "输入型模块",
+    "{id:category}CrocoKit_output": "输出型模块",
     "{id:group}Sensor Modules": "传感器模块",
     "{id:group}Control Modules": "控制类模块",
     "{id:group}Display Modules": "显示类模块",
