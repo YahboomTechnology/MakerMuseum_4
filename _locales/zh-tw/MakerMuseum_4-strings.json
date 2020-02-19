@@ -53,7 +53,7 @@
     "CrocoKit_output.enLED1.OFF|block": "灭",
     "CrocoKit_output.enLED1.ON|block": "亮",
 
-    "CrocoKit_input.GetRGBValue|block": "顏色識別傳感器|颜色值 %value",
+    "CrocoKit_input.GetRGBValue|block": "顏色識別傳感器|返回 %value",
     "CrocoKit_input.IR|block": "紅外傳感器|引腳 %pin|返回 %value",
     "CrocoKit_input.Sound|block": "聲音傳感器|引腳 %pin ",
     "CrocoKit_input.Light|block": "光敏傳感器|引腳 %pin ",
@@ -62,6 +62,9 @@
     "CrocoKit_input.Ultrasonic|block": "超聲波|發射引腳 %Trig|接收引腳 %Echo",
     "CrocoKit_input.enObstacle.Obstacle|block": "有障礙",
     "CrocoKit_input.enObstacle.NoObstacle|block": "無障礙",
+    "CrocoKit_input.enGetRGB.GetValueR|block": "R值",
+    "CrocoKit_input.enGetRGB.GetValueG|block": "G值",
+    "CrocoKit_input.enGetRGB.GetValueB|block": "B值",
     
     "CrocoKit_input.Potentiometer|block": "電位器|引腳 %pin",
     "CrocoKit_input.Rocker|block": "搖桿|X軸 %pinX|Y軸 %pinY|返回 %value",

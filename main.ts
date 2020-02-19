@@ -810,6 +810,7 @@ namespace CrocoKit_input {
         if (val_green > 255) val_green = 255;
         if (val_blue > 255) val_blue = 255;
 
+        /*
         if (val_red == val_green && val_red == val_blue) {
             val_red = 255;
             val_green = 255;
@@ -830,6 +831,7 @@ namespace CrocoKit_input {
             val_red /= 2;
             val_green /= 2;
         }
+        */
     }
 
     export enum enGetRGB {
